@@ -1,1 +1,9 @@
-# predictive_analytics_NFL
+<h1>  Predictive Analytics in NFL Proposal </h1>
+<h2> Daniel Schager </h2>
+
+<p>
+
+The project I have decided to go about exploring for my capstone is an AI model for predictive analytics in sports. This AI model will be able to predict outcomes in football, such as the likelihood of a win or a player’s performance. By combining historical data, predictive modeling techniques, and machine learning, this model will be able to forecast potential game outcomes, player performances, and more. Even with the nature of the game and how the outcome cannot always be predicted, using historical data can help to gain insights towards how factors could influence games. Factors that could be considered when users want to gain insights consist of player performance, weather, team strength, home/away, and possibly more (or less). Problem statement: can this model predict the outcome of the game and player performance (win/loss, scores, player statistics, etc.) based on historical player and team data? 
+The approach to this project consists of many components. The first component would be the collection of data and preprocessing it. Being able to organize the data efficiently is very important and will help make designing programs for algorithms much easier. The data that will most likely be collected is individual player stats, past game stats, and contextual data such as weather and location. Creating stored procedures will help with collecting averages of scores, game importance, etc. The next part of the project would be the development of the model. This would be the core of the project as it is a machine learning model that can make predictions based on the data collected. Creating regression for player performance will also be important. The last component would be to create some sort of a GUI, either a terminal, website, or app. This project would be able to have real-world applications in strategies for teams, player performance monitoring, and even sports betting.  
+
+</p>
